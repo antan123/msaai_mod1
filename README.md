@@ -11,7 +11,8 @@ This repository explores the Adult dataset from the UCI Machine Learning Reposit
 ### Loading and Cleaning: 
 Jupyter notebooks in this repository (EDA.ipynb, ML_Modeling.ipynb) load the data using pandas, handle missing values (e.g., imputation or removal), and address potential outliers. Data cleaning steps will be documented within the notebooks.
 
-### Feature Engineering: Feature engineering techniques (e.g., one-hot encoding for categorical features, scaling for numerical features) might be applied to prepare the data for analysis and modeling. Details will be found within the notebooks.
+### Feature Engineering: 
+Feature engineering techniques (e.g., one-hot encoding for categorical features, scaling for numerical features) might be applied to prepare the data for analysis and modeling. Details will be found within the notebooks.
 
 
 ## Exploratory Data Analysis (EDA)
