@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-This repository explores the Adult dataset from the UCI Machine Learning Repository (Dua & Graff, 2017) (<https://doi.org/10.24432/C5XW20>). The dataset contains census data used to predict whether an individual's annual income exceeds $50,000.
+This repository explores the Adult dataset from the UCI Machine Learning Repository Becker, B. & Kohavi, R. (1996). Adult [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20. The cited Adult dataset from the UCI Machine Learning Repository presents a great dataset to be worked upon. This dataset provides a valuable resource for exploring the relationship between demographic, socioeconomic factors, and income level. It can be used to develop predictive models, conduct social science research, and gain insights into income inequality. The dataset contains census data used to predict whether an individual's annual income exceeds $50,000. 
 
 ## Data Handling :
 
