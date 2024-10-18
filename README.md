@@ -9,7 +9,7 @@ This repository explores the Adult dataset from the UCI Machine Learning Reposit
 ### Data Source: The Adult dataset is downloaded from the UCI Machine Learning Repository (link provided above).
 
 ### Loading and Cleaning: 
-Jupyter notebooks in this repository (EDA.ipynb, ML_Modeling.ipynb) load the data using pandas, handle missing values (e.g., imputation or removal), and address potential outliers. Data cleaning steps will be documented within the notebooks.
+Jupyter notebooks in this repository (EDA.ipynb, modelling_data.ipynb) load the data using pandas, handle missing values (e.g., imputation or removal), and address potential outliers. Data cleaning steps will be documented within the notebooks.
 
 ### Feature Engineering: 
 Feature engineering techniques (e.g., one-hot encoding for categorical features, scaling for numerical features) might be applied to prepare the data for analysis and modeling. Details will be found within the notebooks.
@@ -49,7 +49,7 @@ O_i is the observed frequency for cell i
 E_i is the expected frequency for cell i
 Machine Learning Modeling
 
-Jupyter Notebook: ML_Modeling.ipynb implements various machine learning models to predict income based on the features.
+Jupyter Notebook: modelling_data.ipynb implements various machine learning models to predict income based on the features.
 
 ## Model Selection: 
 This section discusses the selection of suitable machine learning algorithms for this classification task (e.g., logistic regression, decision trees, random forests, etc.). Justification for chosen models will be provided.
@@ -57,7 +57,7 @@ This section discusses the selection of suitable machine learning algorithms for
 ### Model Training and Evaluation: 
 Training data will be used to fit the models, while a separate hold-out or cross-validation scheme will be employed to evaluate model performance. Metrics used for evaluation (e.g., accuracy, precision, recall, F1-score, AUC-ROC) will be explicitly stated.
 ### Hyperparameter Tuning: 
-Model hyperparameters might be tuned (e.g., using grid search or random search) to optimize model performance. The process will be documented in ML_Modeling.ipynb.
+Model hyperparameters might be tuned (e.g., using grid search or random search) to optimize model performance. The process will be documented in modelling_data.ipynb.
 
 
 ## Disclaimer
@@ -70,7 +70,7 @@ This repository includes two Jupyter notebooks:
 
 1. EDA.ipynb: Created by Vinay Mittal
 
-2. ML_Modeling.ipynb: Created by Antan Tyagi
+2. modelling_data.ipynb: Created by Antan Tyagi
 
 
 ## Citation
